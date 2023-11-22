@@ -1,6 +1,6 @@
 import { getAuthSession } from '@/lib/auth';
 import LoginButton from './LoginButton';
-import LoggedInButton from './LoggedInButton';
+import { LoggedInButton } from './LoggedInButton';
 
 export type AuthButtonProps = {};
 
